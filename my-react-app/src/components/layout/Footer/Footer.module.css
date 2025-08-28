@@ -1,0 +1,79 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 230px;
+
+    background-color: #14274A;
+
+    padding-top: 100px;
+    padding-bottom: 76px;
+
+    color: white;
+}
+
+.footer__info{
+
+    margin-left: 186px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.footer__logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 25px;
+    letter-spacing: 60%;
+}
+
+.subtitle{
+    font-weight: 700;
+    font-size: 9px;
+    letter-spacing: 60%;
+}
+
+.footer__addressContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.footer__address{
+    font-weight: 400;
+    font-size: 14px;
+    text-align: start;
+}
+
+.nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.nav__a{
+    gap: 20px;
+
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.EmailContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px
+}
+
+.EmailContainer__text{
+    font-weight: 400;
+    font-size: 16px;
+}

@@ -1,0 +1,40 @@
+.email{
+    display: flex;
+    flex-direction: row;
+
+    width: 360px;
+    height: 50px;
+}
+.input
+{
+    border: 2px solid #E0B973;
+    
+    width: 280px;
+    height: 52px;
+
+    padding: 15px;
+
+    background-color: #14274A;
+    color: white;
+}
+.input::placeholder
+{
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+}
+.button
+{
+    width: 80px;
+    height: 52px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: #E0B973;
+
+    color: #14274A;
+    font-size: 16px;
+    font-weight: 400;
+}

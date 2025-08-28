@@ -1,0 +1,41 @@
+.testimonials
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 113px;
+
+    width: 100%;
+    height: 484px;
+
+    color: black;
+}
+.h{
+    margin-top: 113px;
+
+    font-weight: 700;
+    font-size: 60px;
+}
+.blockquote{
+    margin-top: 26px;
+
+    font-weight: 400;
+    font-size: 30px;
+}
+.cite{
+    margin-top: 19px;
+
+    font-weight: 400;
+    font-size: 25px;
+}
+.buttonContainer{
+    margin-top: 23px;
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 21px;
+
+    width: 121px;
+    height: 50px;
+}
