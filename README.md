@@ -16,8 +16,6 @@
 
 ## 🖼️ Превью макетов
 
-| Макет | Превью | Ссылка на код |
-|-------|--------|---------------|
-| Макет 1 | <img src="./Preview/1.png" width="250" /> | [🔗 Код](https://github.com/Shamitsu212/Figma_to_React/tree/main/my-react-app) |
+Ссылка - https://shamitsu212.github.io/Figma_to_React
 
 ---
